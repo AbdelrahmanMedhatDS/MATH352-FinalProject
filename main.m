@@ -4,7 +4,7 @@ function main()
     % ==== Step 1: Input Parameters ====
     rows = 10;
     cols = 10;
-    max_iterations = 500;
+    max_iterations = 700;
     tolerance = 1e-6;
 
     % Boundary voltages
